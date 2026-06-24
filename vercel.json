@@ -1,0 +1,6 @@
+{
+  "buildCommand": "node generator/build.js",
+  "outputDirectory": "dist",
+  "trailingSlash": true,
+  "cleanUrls": true
+}

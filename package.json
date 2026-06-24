@@ -1,0 +1,12 @@
+{
+  "name": "biologia-2bgu-unidad-0",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unidad 0 de Biología 2.º BGU — El origen de la vida y las biomoléculas orgánicas. Sitio educativo (rediseño Chispa).",
+  "scripts": {
+    "build": "node generator/build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

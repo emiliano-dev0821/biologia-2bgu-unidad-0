@@ -1,0 +1,42 @@
+{
+  "site": "Biología 2BGU — Unidad 0",
+  "base": "https://xm531726.wixsite.com/biologia-2bgu-unit-0",
+  "structure": [
+    { "id": "home", "label": "UNIDAD 0 (Home)", "path": "/" },
+
+    { "id": "t1", "label": "TEMA 1 — Origen de la vida", "path": "/definición", "tema": 1, "type": "tema" },
+    { "id": "t1-s1", "label": "Teoría creacionista", "path": "/teoría-creacionista", "tema": 1, "type": "sub" },
+    { "id": "t1-s2", "label": "Generación espontánea", "path": "/copia-de-nueva-página", "tema": 1, "type": "sub" },
+    { "id": "t1-s3", "label": "Teoría de la Panspermia", "path": "/copia-de-generación-espontánea", "tema": 1, "type": "sub" },
+    { "id": "t1-s4", "label": "Teoría de Oparin y Haldane", "path": "/copia-de-copia-de-nueva-página", "tema": 1, "type": "sub" },
+    { "id": "t1-s5", "label": "Experimento de Miller y Urey", "path": "/copia-de-copia-de-copia-de-nueva-página", "tema": 1, "type": "sub" },
+
+    { "id": "t2", "label": "TEMA 2 — Principales biomoléculas orgánicas", "path": "/clasificación", "tema": 2, "type": "tema" },
+    { "id": "t2-s1", "label": "Carbohidratos", "path": "/copia-de-evolución-de-los-seres-vivos", "tema": 2, "type": "sub" },
+    { "id": "t2-s2", "label": "Lípidos", "path": "/copia-de-copia-de-evolución-de-los-se-3", "tema": 2, "type": "sub" },
+    { "id": "t2-s3", "label": "Proteínas", "path": "/copia-de-copia-de-evolución-de-los-se-2", "tema": 2, "type": "sub" },
+    { "id": "t2-s4", "label": "Ácidos nucleicos", "path": "/copia-de-copia-de-evolución-de-los-se-1", "tema": 2, "type": "sub" },
+
+    { "id": "t3", "label": "TEMA 3 — Evolución de los seres vivos", "path": "/about-3-1", "tema": 3, "type": "tema" },
+    { "id": "t3-s1", "label": "Charles Darwin y la selección natural", "path": "/copia-de-diversidad-de-los-seres-vivos", "tema": 3, "type": "sub" },
+    { "id": "t3-s2", "label": "Evidencias de la evolución", "path": "/copia-de-charles-darwin-y-la-selecció", "tema": 3, "type": "sub" },
+    { "id": "t3-s3", "label": "Adaptación de los seres vivos", "path": "/copia-de-evidencias-de-la-evolución", "tema": 3, "type": "sub" },
+    { "id": "t3-s4", "label": "Evolución humana", "path": "/copia-de-adaptación-de-los-seres-vivos", "tema": 3, "type": "sub" },
+
+    { "id": "t4", "label": "TEMA 4 — Diversidad de los seres vivos", "path": "/about-3", "tema": 4, "type": "tema" },
+    { "id": "t4-s1", "label": "Niveles de biodiversidad", "path": "/copia-de-la-célula", "tema": 4, "type": "sub" },
+    { "id": "t4-s2", "label": "Clasificación de los seres vivos", "path": "/copia-de-niveles-de-biodiversidad", "tema": 4, "type": "sub" },
+    { "id": "t4-s3", "label": "Importancia de la biodiversidad", "path": "/copia-de-clasificación-de-los-seres-v", "tema": 4, "type": "sub" },
+    { "id": "t4-s4", "label": "Conservación de la biodiversidad", "path": "/copia-de-importancia-de-la-biodiversidad", "tema": 4, "type": "sub" },
+
+    { "id": "t5", "label": "TEMA 5 — La célula", "path": "/la-célula", "tema": 5, "type": "tema" },
+    { "id": "t5-s1", "label": "Tipos de Organización Celular", "path": "/tipos-de-organización-celular", "tema": 5, "type": "sub" },
+    { "id": "t5-s2", "label": "División Celular", "path": "/copia-de-tipos-de-organización-celular", "tema": 5, "type": "sub" },
+    { "id": "t5-s3", "label": "Ciclo Celular", "path": "/copia-de-copia-de-nueva-página-1", "tema": 5, "type": "sub" },
+
+    { "id": "t6", "label": "TEMA 6 — Nutrición, relación y reproducción", "path": "/evidencias", "tema": 6, "type": "tema" },
+    { "id": "t6-s1", "label": "Nutrición", "path": "/copia-de-nutrición-relación-y-reprod", "tema": 6, "type": "sub" },
+    { "id": "t6-s2", "label": "Relación", "path": "/copia-de-nutrición", "tema": 6, "type": "sub" },
+    { "id": "t6-s3", "label": "Reproducción", "path": "/copia-de-relación", "tema": 6, "type": "sub" }
+  ]
+}

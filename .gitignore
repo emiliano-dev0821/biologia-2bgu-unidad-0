@@ -1,0 +1,17 @@
+# Build output (Vercel lo genera)
+dist/
+
+# Dependencias
+node_modules/
+
+# Material de trabajo (no se publica)
+skills/
+boceto/
+site/
+.claude/
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
