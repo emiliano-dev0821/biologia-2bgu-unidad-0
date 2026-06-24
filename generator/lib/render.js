@@ -77,7 +77,7 @@ function footer() {
     <div class="footer__grid">
       <div>
         <div class="footer__brand"><span class="logo__mark">${icon('spark', 20, 1.9)}</span><span class="logo__txt">Bio·U0</span></div>
-        <p>Unidad 0 — El origen de la vida y las biomoléculas orgánicas. Recurso de estudio para 2.º BGU.</p>
+        <p>Recurso de estudio para 2.º BGU.</p>
       </div>
       <div class="fcol">
         <div class="fcol__label">Docente</div>
